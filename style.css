@@ -28,14 +28,14 @@ body{
 	margin: 0 20px;
 	padding-top: 20px;
 	font-size: 19px;
-	color: #f8160b;
+	color: #00FFFF;
 }
 #output{
 	text-align: right;
 	height: 60px;
 	margin: 10px 20px;
 	font-size: 30px;
-	color: #f8160b;
+	color: #008000;
 }
 #keyboard{
 	height: 400px;
